@@ -57,7 +57,7 @@ Here’s a look at the Weather App interface:
 ![Screenshot 1](assets/Screenshot1.png)  
 *Home screen showing a search bar to enter a location*
 
-![Screenshot 2](assets/screenshot2.png)  
+![Screenshot 2](assets/Screenshot2.png)  
 *Air Quality Index and detailed weather information*
 
 ## 🧪 API
