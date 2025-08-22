@@ -54,7 +54,7 @@ app/
 
 Here’s a look at the Weather App interface:
 
-![Screenshot 1](assets/screenshot 1.png)  
+![Screenshot 1](assets/Screenshot1.png)  
 *Home screen showing a search bar to enter a location*
 
 ![Screenshot 2](assets/screenshot2.png)  
